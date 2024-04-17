@@ -14,6 +14,7 @@ This repository contains a partial implementation of an Ant System algorithm [1]
   - [Task 2.1](#task-21)
   - [Task 2.2](#task-22)
   - [Task 2.3](#task-23)
+- [Documentation](#documentation)
 
 ## Project structure
 ```bash
@@ -68,5 +69,5 @@ Complete the implementation of [`ant-colony.py`](ant-colony.py):
 ## Documentation 
 - [tsplib95 Python library API documentation](https://tsplib95.readthedocs.io/en/stable/) for working with TSPLIB 95 files (e.g., problem specifications);
 - [tsplib95 glossary and documentation](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp95.pdf) for working with the pseudo-euclidean distance algorithm;
-- (Dorigo and Stützle; 2004) Dorigo, M., & Stutzle, T. (2004). Ant colony optimization. The MIT Press; for working with the Ant System algorithm;
+- (Dorigo and Stützle; 2004) Dorigo, M., & Stutzle, T. (2004). Ant colony optimization. The MIT Press; for working with the TSP and the Ant System algorithm;
 - [Lecture slides; slides 18-42](https://learning.unisg.ch/courses/19882/files/2757800?module_item_id=564752).
